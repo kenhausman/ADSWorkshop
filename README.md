@@ -12,7 +12,7 @@ Labs using Azure Services to build Azure IoT End to End Solutions connecting rea
 
 ![Imported Script](IoT_HOL/images/Lab.png "Header Image")
 
-## Modules
+## IoT Modules
 
 ### Setup: Azure subscription access and the Data Science Virtual Machine
 
@@ -74,3 +74,98 @@ Labs using Azure Services to build Azure IoT End to End Solutions connecting rea
 **Duration**: 30 minutes
 
 [Automatic Device Configuration](IoT_HOL/automaticdeviceconfiguration/README.md)
+
+## Azure Artificial Intelligence Hands on Labs
+
+Labs using Azure Services to develop proficiency in Azure Cognitive Services including Computer Vision, Custom Vision, LUIS, and Bing Search. You will also learn to leverage other AI-oriented services such as Azure Search and Azure Bot Services. 
+
+![Header](AI_HOL/assets/header.png "Header Image")
+
+## AI Modules
+
+### Module 1.1: Simplifying Cognitive Services App Development using Portable Class Libraries
+
+**Duration**: 60 minutes
+
+[Integrating Cognitive Services into VS Project](AI_HOL/lab01.1-computer_vision/0_README.md)
+
+### Module 1.2: Creating an Image Classification Application using the Custom Vision Service
+
+**Duration**: 30 minutes
+
+[Build Custom Vision Model](AI_HOL/lab01.2_customvision01/0_README.md)
+
+### Module 1.3: Creating an Object Detection Application using the Custom Vision Service
+
+**Duration**: 30 minutes
+
+[Object Detection with Custom Vision](AI_HOL/lab01.3_customvision02/0_README.md)
+
+### Module 1.4: Developing Intelligent Applications with LUIS
+
+**Duration**: 30 minutes
+
+[Language Understanding Intelligent Service](AI_HOL/lab01.5-luis/0_README.md)
+
+### Module 1.5: Business Case 1 - Cognitive Services
+
+**Duration**: 60 minutes
+
+[Cognitive Services Business Case Part 1](AI_HOL/lab01.6-bootcamp_case_1/Case_Part1.md)
+
+### Module 2.1: Developing Intelligent Applications with Azure Search
+
+**Duration**: 60 minutes
+
+[Integrate Azure Search](AI_HOL/lab02.1-azure_search/0_README.md)
+
+### Module 2.2: Building Intelligent Bots
+
+**Duration**: 60-90 minutes
+
+[Working with BoT Framework](AI_HOL/lab02.2-building_bots/0_README.md)
+
+### Module 2.3: Enhancing Applications with Bing Search
+
+**Duration**: 60-90 minutes
+
+[Integrating with a Public Search Engine](AI_HOL/lab02.3-bing_search/0_README.md)
+
+### Module 2.4: Business Case 2 - Bots
+
+**Duration**: 60 minutes
+
+[BoT Services Business Case Part 2](AI_HOL/lab02.4-bootcamp_case_2/Case_Part2.md)
+
+Congratulations! You have completed the Azure IoT & AI Workshop.
+
+# Supplementary Learning Materials
+
+- [Lab 2.5: Log Chat Conversations in your Bot](./lab02.5-logging_chat_conversations/0_README.md)
+- [Lab 2.6: Testing your Bot](./lab02.6-testing_bots/0_README.md)
+
+## Related courses
+
+Here are some related courses from the LearnAI team:
+
+- [LearnAI: Intelligent Agents: Design and Architecture](https://aka.ms/daaia)
+- [LearnAI: Building Enterprise Cognitive Search Solutions](https://aka.ms/kmb)  
+
+## Contact
+
+Contact us: learnAI@microsoft.com and <http://aka.ms/LearnAI-GitHub>
+
+## Certifications
+
+The LearnAI team had intense participation in the creation of the following new Microsoft certifications and its required tests:
+
++ [Azure Data Engineer​](https://www.microsoft.com/en-us/learning/azure-data-engineer.aspx)
+  + DP-200: Implementing an Azure Data Solution
+  + DP-201: Designing an Azure Data Solutions​
+
++ [Azure AI Engineer​](https://www.microsoft.com/en-us/learning/azure-ai-engineer.aspx)
+  + AI-100: Designing and Implementing an Azure AI Solution
+
++ [Azure Data Scientist](https://www.microsoft.com/en-us/learning/azure-data-scientist.aspx)
+  + DP-100: Designing and Implementing a Data Science Solution on Azure​
+
