@@ -165,19 +165,11 @@ Congratulations! You have completed the Azure IoT & AI Workshop.
 
 # Supplementary Learning Materials
 
-- [Lab 2.5: Log Chat Conversations in your Bot](./lab02.5-logging_chat_conversations/0_README.md)
-- [Lab 2.6: Testing your Bot](./lab02.6-testing_bots/0_README.md)
-
-## Related courses
-
-Here are some related courses from the LearnAI team:
-
-- [LearnAI: Intelligent Agents: Design and Architecture](https://aka.ms/daaia)
-- [LearnAI: Building Enterprise Cognitive Search Solutions](https://aka.ms/kmb)  
-
-## Contact
-
-Contact us: learnAI@microsoft.com and <http://aka.ms/LearnAI-GitHub>
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+- [AI School](https://aischool.microsoft.com)
+- [IoT School](https://iotschool.microsoft.com)
+- [Microsoft Professional Certification Programs](https://www.edx.org/course/?type=Professional%20Certificate&school=Microsoft%3A%20Microsoft)
+- [edX Azure courses](https://www.edx.org/course?search_query=Azure)
 
 ## Certifications
 
