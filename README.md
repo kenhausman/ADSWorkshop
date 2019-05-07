@@ -113,6 +113,8 @@ Labs using Azure Services to develop proficiency in Azure Cognitive Services inc
 
 **Duration**: 60 minutes
 
+Module 1 section complete!  Take a break and continue on to Module 2.
+
 [Cognitive Services Business Case Part 1](AI_HOL/lab01.6-bootcamp_case_1/Case_Part1.md)
 
 ### Module 2.1: Developing Intelligent Applications with Azure Search
