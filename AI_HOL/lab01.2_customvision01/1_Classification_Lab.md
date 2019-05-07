@@ -1,3 +1,5 @@
+### Module 1.2
+
 # Lab: Creating Image Classification Applications using the Custom Vision API
 
 In this lab, you will create an application that deals with the classification of plants.

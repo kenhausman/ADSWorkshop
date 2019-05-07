@@ -1,4 +1,4 @@
-# Configure and monitor IoT devices at scale
+# Module 9: Configure and monitor IoT devices at scale
 
 ![Header Image](images/iothub.jpg)
 

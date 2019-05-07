@@ -1,3 +1,5 @@
+### Module 2.2
+
 # 2_Azure_Search
 
 Estimated Time: 10-15 minutes

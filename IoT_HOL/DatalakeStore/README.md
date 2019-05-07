@@ -1,4 +1,4 @@
-# Cold Path Storage
+# Module 5: Cold Path Storage
 
 ## Create Data Lake Store and Stream Data from IoTHub using Azure Stream Analytics
 

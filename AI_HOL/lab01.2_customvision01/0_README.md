@@ -1,3 +1,5 @@
+### Module 1.2
+
 # Creating Custom Vision Applications
 
 The goal of this lab is to create a CLI application that uses the Custom Vision API to classify images that you provide to the Custom Vision Service.

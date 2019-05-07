@@ -1,4 +1,4 @@
-# Load test with Device Simulator
+# Module 8: Load test with Device Simulator
 
 Learn how to set up a Device Simulator using Azure IoT Suite and Connect to IoTHub
 

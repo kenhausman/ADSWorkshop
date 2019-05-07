@@ -1,3 +1,5 @@
+### Module 2.3
+
 # Enhancing Applications with Bing Search
 
 This hands-on lab guides you through enhancing a published bot (through Azure Bot Service) with one of the Bing Search APIs (part of Azure Cognitive Services).

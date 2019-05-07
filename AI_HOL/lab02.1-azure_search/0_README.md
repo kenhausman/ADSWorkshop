@@ -1,3 +1,5 @@
+### Module 2.1
+
 # Developing Intelligent Applications with Azure Search
 
 This hands-on lab guides you through creating an Azure Search service that will be used to create an intelligent bot (that you will create in later labs) that returns images a user searches for. You could of course also use the [Bing Web Search API](https://azure.microsoft.com/en-us/services/cognitive-services/bing-web-search-api/), but that way you would only get results from publicly available websites. With Azure search, you can instead create a private search engine.

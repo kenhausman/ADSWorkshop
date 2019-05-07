@@ -1,4 +1,4 @@
-# Visualize Time Series Data with Azure Time Series Insights
+# Module 3: Visualize Time Series Data with Azure Time Series Insights
 
 ![Time Series Insights](images/timeseriesinsights.jpg)
 

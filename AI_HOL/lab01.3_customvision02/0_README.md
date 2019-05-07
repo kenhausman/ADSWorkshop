@@ -1,3 +1,5 @@
+### Module 1.3
+
 # Lab: Creating an Object Detection Application using the Custom Vision API
 
 The goal of this tutorial is to explore a basic Windows application that uses

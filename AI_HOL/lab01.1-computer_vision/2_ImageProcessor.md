@@ -1,3 +1,5 @@
+### Module 1.1
+
 ## 2_ImageProcessor
 Estimated Time: 30-45 minutes
 

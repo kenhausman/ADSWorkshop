@@ -1,4 +1,4 @@
-# React to Critical Device Lifecycle Events and Trigger Actions
+# Module 4: React to Critical Device Lifecycle Events and Trigger Actions
 
 ![Header Image](images/eventgrid.jpg)
 

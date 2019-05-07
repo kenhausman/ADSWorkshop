@@ -1,4 +1,4 @@
-# Introduction to Azure IoT Hub
+# Module 1: Introduction to Azure IoT Hub
 
 ![IoT Hub](images/iothub.jpg)
 

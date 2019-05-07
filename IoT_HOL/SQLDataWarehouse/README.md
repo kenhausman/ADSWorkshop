@@ -1,4 +1,4 @@
-# Batch Analytics
+# Module 7: Batch Analytics
 
 ## Batch Analytics with SQL Data Warehouse and Data Factory
 

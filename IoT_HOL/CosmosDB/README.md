@@ -1,4 +1,4 @@
-# Hot Path Analytics with CosmosDB and Azure Stream Analytics
+# Module 6: Hot Path Analytics with CosmosDB and Azure Stream Analytics
 
 ![Header Image](images/cosmosdb.jpg)
 

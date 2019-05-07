@@ -1,3 +1,5 @@
+### Module 2.6
+
 # Testing Bots with Microsoft Bot Framework
 
 This hands-on lab guides you through some of the basics of testing bots.  

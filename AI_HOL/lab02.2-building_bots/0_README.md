@@ -1,3 +1,5 @@
+### Module 2.2
+
 # Building Intelligent Bots with Microsoft's Bot Framework (.NET)
 
 This hands-on lab guides you through creating an intelligent bot from end-to-end using the Microsoft Bot Framework, Azure Search, and Microsoft's Language Understanding Intelligent Service (LUIS).

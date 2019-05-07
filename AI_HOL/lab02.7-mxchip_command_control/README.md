@@ -1,3 +1,5 @@
+### Module 2.7
+
 # Command and Control IoT Devices using Conversational AI
 
 This hands-on lab guides you through one particular approach to cloud-to-device (C2D) messaging called Direct Method.  Azure IoT Hub provides several mechanisms for securely communicating with Edge devices all while not having any direct in-bound connectivity.
