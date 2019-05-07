@@ -171,6 +171,13 @@ Congratulations! You have completed the Azure IoT & AI Workshop.
 - [Microsoft Professional Certification Programs](https://www.edx.org/course/?type=Professional%20Certificate&school=Microsoft%3A%20Microsoft)
 - [edX Azure courses](https://www.edx.org/course?search_query=Azure)
 
+## Interesting GitHub resources
+- [Intelligent Kiosk](https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk)
+- [AI Toolkit for IoT Edge](https://github.com/Azure/ai-toolkit-iot-edge)
+- [Spark ML Batch Scoring for Predictive Maintenance](https://github.com/Azure/BatchSparkScoringPredictiveMaintenance)
+- [Azure Organization](https://github.com/Azure)
+- [Microsoft Organization](https://github.com/Microsoft)
+
 ## Certifications
 
 The LearnAI team had intense participation in the creation of the following new Microsoft certifications and its required tests:
