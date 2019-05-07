@@ -113,9 +113,9 @@ Labs using Azure Services to develop proficiency in Azure Cognitive Services inc
 
 **Duration**: 60 minutes
 
-Module 1 section complete!  Take a break and continue on to Module 2.
-
 [Cognitive Services Business Case Part 1](AI_HOL/lab01.6-bootcamp_case_1/Case_Part1.md)
+
+#### Module 1 section complete!  Take a break and continue on to Module 2.
 
 ### Module 2.1: Developing Intelligent Applications with Azure Search
 
@@ -153,7 +153,7 @@ Module 1 section complete!  Take a break and continue on to Module 2.
 
 [Testing Bots](AI_HOL/lab02.6-testing_bots/0_README.md)
 
-Congratulations! You have completed the Azure IoT & AI Workshop.
+#### Congratulations! You have completed the Azure IoT & AI Workshop.
 
 ### Module 2.7: Command and Control IoT Devices using Conversational AI
 
