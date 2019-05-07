@@ -1,4 +1,4 @@
-# Azure IoT & AI Workshop
+## Azure IoT & AI Workshop
 
 The Azure IoT & AI Workshop is an accumulation of several resources available on Azure Docs giving you an introduction to Azure IoT sensor telemetry integration, and Artificial Intelligence services covering vision and natural language with bot services.
 
@@ -6,7 +6,7 @@ We will start by walking through the IoT Hands on Labs, then proceed to the AI p
 
 Let's get started...
 
-## Azure IoT Hands on Labs
+# Azure IoT Hands on Labs
 
 Labs using Azure Services to build Azure IoT End to End Solutions connecting real & simulated devices to Azure IoT Hub.
 
@@ -75,7 +75,9 @@ Labs using Azure Services to build Azure IoT End to End Solutions connecting rea
 
 [Automatic Device Configuration](IoT_HOL/automaticdeviceconfiguration/README.md)
 
-## Azure Artificial Intelligence Hands on Labs
+Congratulations!  You have completed the IoT portion of this workshop.
+
+# Azure Artificial Intelligence Hands on Labs
 
 Labs using Azure Services to develop proficiency in Azure Cognitive Services including Computer Vision, Custom Vision, LUIS, and Bing Search. You will also learn to leverage other AI-oriented services such as Azure Search and Azure Bot Services. 
 
