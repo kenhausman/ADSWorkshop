@@ -21,5 +21,5 @@ After creating an Azure account, you may access the [Azure portal](https://porta
 ## You have completed the prerequisites. 
 
 
-### Continue to [Module 1: Introduction to Azure IoT Hub and Connect MXChip](../IoTHub/README.md), or return to the [Main](../README.md) menu
+### Continue to [Module 1: Introduction to Azure IoT Hub and Connect MXChip](../IoTHub/README.md), or return to the [Main](../../README.md) menu
 

@@ -49,4 +49,4 @@ Messages will start flowing into IoT Hub
 
 >**You will work with Labs in the Next Module to Visualize the Data flowing into IoT Hub**
 
-### Continue to [Module 3: Create Azure Time Series Insights and Visualize Device Data](../timeseriesinsights/README.md), or return to the [Main](../README.md) menu
+### Continue to [Module 3: Create Azure Time Series Insights and Visualize Device Data](../timeseriesinsights/README.md), or return to the [Main](../../README.md) menu

@@ -39,4 +39,4 @@ Select the frequency of data flowing into IoT Hub
 
 ![Simulation Devices](images/09_simulated_devices.png)
 
-### Continue to [Module 9: Configure and monitor IoT devices at scale](../automaticdeviceconfiguration/README.md), or return to the [Main](../README.md) menu
+### Continue to [Module 9: Configure and monitor IoT devices at scale](../automaticdeviceconfiguration/README.md), or return to the [Main](../../README.md) menu

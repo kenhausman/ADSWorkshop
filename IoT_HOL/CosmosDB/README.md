@@ -92,4 +92,4 @@ Use Cosmos DB data explorer to view data being streamed from IoTHub to Cosmos DB
 
 ![Stream Data to Cosmos DB](images/11_cosmosdb_data_explorer.png)
 
-### Continue to [Module 7: Batch Analytics](../SQLDataWarehouse/README.md), or return to the [Main](../README.md) menu
+### Continue to [Module 7: Batch Analytics](../SQLDataWarehouse/README.md), or return to the [Main](../../README.md) menu

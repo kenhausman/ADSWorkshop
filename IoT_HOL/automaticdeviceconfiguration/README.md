@@ -203,4 +203,4 @@ Below is the device twin updated with properties
 }
 ```
 
-### Congratulations! You have completed the IoT section of the workshop. Return to the [Main](../README.md) menu
+### Congratulations! You have completed the IoT section of the workshop. Return to the [Main](../../README.md) menu

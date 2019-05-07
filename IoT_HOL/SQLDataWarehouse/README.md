@@ -189,4 +189,4 @@ Return to SSMS and query the fact_Telemetry table for new records.
 
 ![Create Data Factory](images/ssms.png)
 
-### Continue to [Module 8: Load Test using Device Simulator](../DeviceSimulator/README.md), or return to the [Main](../README.md) menu
+### Continue to [Module 8: Load Test using Device Simulator](../DeviceSimulator/README.md), or return to the [Main](../../README.md) menu
