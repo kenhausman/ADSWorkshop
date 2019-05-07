@@ -27,4 +27,4 @@ Resources for future projects/learning:
 
 
 
-Back to [README](./0_README.md)
+### Continue to [Module 1.2](../lab01.2_customvision01/0_README.md), or return to the [Main](../../README.md) menu

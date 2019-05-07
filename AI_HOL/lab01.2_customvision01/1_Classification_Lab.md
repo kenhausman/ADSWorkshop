@@ -251,3 +251,5 @@ The source code for the Windows client library is available on
 [github](https://github.com/Microsoft/Cognitive-CustomVision-Windows/).
 
 The client library includes multiple sample applications, and this tutorial is based on the `CustomVision.Sample` demo within that repository.
+
+### Continue to [Module 1.3](../lab01.3_customvision02/0_README.md), or return to the [Main](../../README.md) menu

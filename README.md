@@ -139,6 +139,26 @@ Labs using Azure Services to develop proficiency in Azure Cognitive Services inc
 
 [BoT Services Business Case Part 2](AI_HOL/lab02.4-bootcamp_case_2/Case_Part2.md)
 
+### Module 2.5: Logging with Microsoft Bot Framework
+
+**Duration**: 60 minutes
+
+[Conversation Logging](AI_HOL/lab02.5-logging_chat_conversations/0_README.md)
+
+### Module 2.6: Testing Bots with Microsoft Bot Framework
+
+**Duration**: 30 minutes
+
+[Testing Bots](AI_HOL/lab02.6-testing_bots/0_README.md)
+
+Congratulations! You have completed the Azure IoT & AI Workshop.
+
+### Module 2.7: Command and Control IoT Devices using Conversational AI
+
+**Duration**: 30 minutes
+
+[IoT Command and Control](AI_HOL/lab02.7-mxchip_command_control/README.md)
+
 Congratulations! You have completed the Azure IoT & AI Workshop.
 
 # Supplementary Learning Materials

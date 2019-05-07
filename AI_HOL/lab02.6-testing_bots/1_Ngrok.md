@@ -47,5 +47,4 @@ Send some sample messages to the bot. Now, you should be able to monitor the cal
 
 So now, if you're using Windows and running your bot behind a firewall or other network boundary, you're able to connect to a bot that is hosted remotely. While this is a good exercise to understand what's happening underneath, recent updates to the Bot Framework emulator have made it tightly integrated with ngrok, lauching it automatically (in **most** cases) when it is needed. 
 
-### Continue to [2_Direct_Line](./2_Direct_Line.md)
-Back to [README](./0_README.md)
+### Continue to [2_Direct_Line](./2_Direct_Line.md), or return to the [Main](../../README.md) menu

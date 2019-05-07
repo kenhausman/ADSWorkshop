@@ -692,6 +692,4 @@ In the next lab, we will address the search error.
 
 Get stuck? You can find the solution for this lab under **resources > code**. We recommend using this as a reference, not as a solution to run, but if you choose to run it, be sure to add the necessary keys (in this section, there shouldn't be any).  
 
-### Continue to [2_Azure_Search](./2_Azure_Search.md)
-
-Back to [README](./0_README.md)
+### Continue to [2_Azure_Search](./2_Azure_Search.md), or return to the [Main](../../README.md) menu

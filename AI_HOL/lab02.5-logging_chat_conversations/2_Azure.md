@@ -52,5 +52,4 @@ Now, this is great, we can store the list of all the utterances that we're recei
 
 But what if we not only want to see what utterances users are sending, but also how the bot replies? How can we log both the message and the reply?  
 
-### Continue to [3_Cosmos](./3_Cosmos.md)
-Back to [README](./0_README.md)
+### Continue to [3_Cosmos](./3_Cosmos.md), or return to the [Main](../../README.md) menu

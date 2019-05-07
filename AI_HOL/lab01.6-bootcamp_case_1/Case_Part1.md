@@ -38,3 +38,5 @@ Your team is preparing a proof of concept, and your group has been tasked to sug
 3. What are some potential ideas for how Custom Vision could be used to bring value?
 
 Document your suggestions on the whiteboards/flipcharts provided. You will present your results.
+
+### Continue to [Module 2.1](../lab02.1-azure_search/0_README.md), or return to the [Main](../../README.md) menu

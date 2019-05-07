@@ -118,8 +118,4 @@ Now that you've built `ImageProcessor.cs`, don't forget to save it!
 Want to make sure you set up `ImageProcessor.cs` correctly? You can find the full class [here](./resources/code/Finished-ImageProcessing/ProcessingLibrary/ImageProcessor.cs).
 
 
-### Continue to [3_TestCLI](./3_TestCLI.md)
-
-
-
-Back to [README](./0_README.md)
+### Continue to [3_TestCLI](./3_TestCLI.md), or return to the [Main](../../README.md) menu

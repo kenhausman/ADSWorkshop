@@ -65,4 +65,4 @@ This workshop has been broken down into five sections:
 - [3_TestCLI](./3_TestCLI.md): Here we'll call the Computer Vision API and load our images into Cosmos DB and Azure Storage using a console application
 - [4_Challenge_and_Closing](./4_Challenge_and_Closing.md): If you get through all the labs, try this challenge. You will also find a summary of what you've done and where to learn more
 
-### Continue to [1_Setup](./1_Setup.md)
+### Continue to [1_Setup](./1_Setup.md), or return to the [Main](../../README.md) menu

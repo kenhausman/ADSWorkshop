@@ -120,8 +120,4 @@ You'll need the **URI** and the **PRIMARY KEY** for your _TestCLI's_ `settings.j
 ## You have completed the prerequisites. 
 
 
-### Continue to [2_ImageProcessor](./2_ImageProcessor.md)
-
-
-
-Back to [README](./0_readme.md)
+### Continue to [2_ImageProcessor](./2_ImageProcessor.md), or return to the [Main](../../README.md) menu

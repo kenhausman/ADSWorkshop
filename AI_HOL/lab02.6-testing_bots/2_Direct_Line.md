@@ -247,5 +247,4 @@ Have extra time? Can you leverage curl (download link: https://curl.haxx.se/down
 > Hint: your command may look similar to `curl -H "Authorization:Bearer {SecretKey}" https://directline.botframework.com/api/conversations/{conversationId}/messages -XGET`
 
 
-### Continue to [3_More](./3_More.md)
-Back to [README](./0_README.md)
+### Continue to [3_More](./3_More.md), or return to the [Main](../../README.md) menu

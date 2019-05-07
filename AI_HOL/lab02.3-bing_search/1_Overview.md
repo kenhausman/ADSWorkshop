@@ -50,6 +50,4 @@ Depending on your previous experience and your experience in this workshop, you 
 1. Continue to the [next page](./2_Bing_Search.md) to receive step-by-step instructions, resources, etc. (just as in previous labs).
 2. Do not open the next file. Instead, try integrating Bing Image Search API to your bot without assistance. If you choose this option, you should understand that you **will not receive debugging assistance** from the instructor. You can peek at the solution file (under **resources > code**) or the [next page](./2_Bing_Search.md) for ideas.  
 
-### Continue to [2_Bing_Search](./2_Bing_Search.md)
-
-Return to [0_README](0_README.md)
+### Continue to [2_Bing_Search](./2_Bing_Search.md), or return to the [Main](../../README.md) menu

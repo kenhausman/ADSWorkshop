@@ -128,5 +128,4 @@ The first line takes the incoming message from a user and stores it in a variabl
 Run the bot and have a sample conversation with the bot. Stop the bot and check the latest temp file starting with "user." What do we have now?  
 
 
-### Continue to [2_Azure](./2_Azure.md)
-Back to [README](./0_README.md)
+### Continue to [2_Azure](./2_Azure.md), or return to the [Main](../../README.md) menu

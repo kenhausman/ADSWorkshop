@@ -271,4 +271,4 @@ Looking to do more with [Cosmos DB and .NET](https://docs.microsoft.com/en-us/az
 
 After finishing all the activities, can you configure logging each conversation (not just one turn message/reply) as a different entry in Cosmos DB?  
   
-Back to [README](./0_README.md)
+### Continue to [Module 2.6](../lab02.6-testing_bots/0_README.md), or return to the [Main](../../README.md) menu

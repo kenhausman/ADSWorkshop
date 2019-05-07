@@ -81,4 +81,4 @@ This workshop has been broken down into three sections:
 
 After finishing all the activities, can you configure logging each conversation (not just one turn message/reply) as a different entry in Cosmos DB?  
 
-### Continue to [Lab 2.6 - Testing your bot](../lab02.6-testing_bots/0_README.md)
+### Continue to [Lab 2.6 - Testing your bot](../lab02.6-testing_bots/0_README.md), or return to the [Main](../../README.md) menu

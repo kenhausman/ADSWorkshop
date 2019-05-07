@@ -147,6 +147,4 @@ If you struggled with either (or both) of the above comments, you probably are f
 
 Get stuck? You can find the solution for this lab under **resources > code**. We recommend using this as a reference, not as a solution to run, but if you choose to run it, be sure to add the necessary keys. The readme file within the solution (once you open it) will tell you what keys you need to add in order to run the solution.
 
-### Continue to [3_LUIS](./3_LUIS.md)
-
-Back to [README](./0_README.md)
+### Continue to [3_LUIS](./3_LUIS.md), or return to the [Main](../../README.md) menu

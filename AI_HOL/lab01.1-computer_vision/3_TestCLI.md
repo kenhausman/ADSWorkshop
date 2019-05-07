@@ -49,8 +49,4 @@ Once it's done processing, you can query against your Cosmos DB directly using _
 Take some time to look through the [sample_images](./resources/sample_images) (you can find them in resources/sample_images) and compare the images to the results in your application. 
 
 
-### Continue to [4_Challenge_and_Closing](./4_Challenge_and_Closing.md)
-
-
-
-Back to [README](./0_README.md)
+### Continue to [4_Challenge_and_Closing](./4_Challenge_and_Closing.md), or return to the [Main](../../README.md) menu

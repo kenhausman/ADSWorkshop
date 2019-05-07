@@ -118,4 +118,4 @@ Try performing other searches using [examples such as these](https://docs.micros
 
 **Looking to add cognitive skills to your Azure Search Service? Check out [these labs](https://aka.ms/kmb) and [the documentation](https://docs.microsoft.com/en-us/azure/search/cognitive-search-concept-intro) to learn about Cognitive Search.**
 
-Back to [README](./0_README.md)
+### Continue to [Module 2.2](../lab02.2-building_bots/0_README.md), or return to the [Main](../../README.md) menu

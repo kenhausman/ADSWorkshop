@@ -46,4 +46,4 @@ We highly recommend that you read what these tools can do carefully, as they may
 Also, you can check out an [example of an end-to-end bot development workflow using botbuilder-tools](https://aka.ms/BotBuilderLocalDev).
 
 
-Back to [README](./0_README.md)
+### Continue to [Module 2.7](../lab02.7-mxchip_command_control/README.md), or return to the [Main](../../README.md) menu

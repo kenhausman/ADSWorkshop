@@ -273,3 +273,5 @@ These resources may help: [Resource 1](https://docs.microsoft.com/en-us/rest/api
 - [Bing Search .NET Samples](https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples/tree/master/BingSearchv7)
 - [Bing Web Search app Tutorial](https://docs.microsoft.com/en-us/azure/cognitive-services/bing-web-search/tutorial-bing-web-search-single-page-app)
 - [ConferenceBuddy bot application that uses Bing Search and other Cognitive Services](https://github.com/Azure/ConferenceBuddy)
+
+### Continue to [Module 2.4](../lab02.4-bootcamp_case_2/Case_Part2.md), or return to the [Main](../../README.md) menu

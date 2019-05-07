@@ -45,4 +45,4 @@ You should already have a list of keys, we'll just be adding one more for this l
 >
 >- Bing Search V7 key
 
-### Continue to [1_Overview](./1_Overview.md)
+### Continue to [1_Overview](./1_Overview.md), or return to the [Main](../../README.md) menu

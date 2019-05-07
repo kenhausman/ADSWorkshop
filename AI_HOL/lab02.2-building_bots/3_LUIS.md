@@ -165,5 +165,4 @@ You can also review the documentation guidance for adding LUIS to bots [here](ht
 Get stuck? You can find the solution for this lab under **resources > code**. We recommend using this as a reference, not as a solution to run, but if you choose to run it, be sure to add the necessary keys. The readme file within the solution (once you open it) will tell you what keys you need to add in order to run the solution.   
 
 
-### Continue to [4_Publish_and_Register](./4_Publish_and_Register.md)  
-Back to [README](./0_README.md)
+### Continue to [4_Publish_and_Register](./4_Publish_and_Register.md), or return to the [Main](../../README.md) menu

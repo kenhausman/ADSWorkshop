@@ -89,4 +89,4 @@ This workshop has been broken down into five sections:
 - [4_Publish_and_Register](./4_Publish_and_Register.md): We'll finish by re-publishing and registering our bot.
 - [5_Closing](./5_Closing.md): Here you'll find a summary of what you've done and where to learn more.
 
-### Continue to [1_Dialogs_and_Regex](./1_Dialogs_and_Regex.md)
+### Continue to [1_Dialogs_and_Regex](./1_Dialogs_and_Regex.md), or return to the [Main](../../README.md) menu

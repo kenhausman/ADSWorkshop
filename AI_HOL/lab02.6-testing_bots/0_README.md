@@ -60,5 +60,5 @@ This workshop has been broken down into five sections:
 - [3_More](./3_More.md): This read-only lab exposes you to other resources and tools for development and testing with bots.  
 
 
-### Continue to [1_Ngrok](./1_Ngrok.md)
+### Continue to [1_Ngrok](./1_Ngrok.md), or return to the [Main](../../README.md) menu
 

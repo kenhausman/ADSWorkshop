@@ -24,3 +24,5 @@ are available. This will be time limited between 20 - 30 mins.
 
 Your instructor will invite a member of your team to provide a description of
 your answer and discuss with the wider group
+
+### Continue to [Module 2.5](../lab02.5-logging_chat_conversations/0_README.md), or return to the [Main](../../README.md) menu

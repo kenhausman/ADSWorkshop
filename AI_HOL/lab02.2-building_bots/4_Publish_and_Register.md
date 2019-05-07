@@ -33,5 +33,4 @@ Want to learn more about the various aspects related to bots? Spend some time re
 
 For more information on testing bots or using the Direct Line channel, we recommend you review the supplementary materials in [lab02.6-testing_bots](../lab02.6-testing_bots/0_README.md).
 
-### Continue to [5_Closing](./5_Closing.md)  
-Back to [README](./0_README.md)
+### Continue to [5_Closing](./5_Closing.md), or return to the [Main](../../README.md) menu

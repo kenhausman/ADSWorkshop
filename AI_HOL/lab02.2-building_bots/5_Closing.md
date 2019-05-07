@@ -23,4 +23,4 @@ Other resources for future projects/learning:
 - [Course on Designing and Architecting Intelligent Agents](https://aka.ms/daaia)
 
 
-Back to [README](./0_README.md)
+### Continue to [Module 2.3](../lab02.3-bing_search/0_README.md), or return to the [Main](../../README.md) menu

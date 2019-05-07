@@ -291,4 +291,4 @@ The source code for this client application is available on
 The client library includes multiple sample applications, and this tutorial is
 based on the `CustomVision.Sample` demo within that repository.
 
-Back to [README](./0_README.md)
+### Continue to [Module 1.4](../lab01.5-luis/0_README.md), or return to the [Main](../../README.md) menu

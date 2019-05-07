@@ -43,4 +43,4 @@ There are several directories in the [resources](./resources) folder:
 
 - **assets**: This contains all of the images for the lab manual. You can ignore this folder.
 
-### Continue to [1_AzureSearch](./1_AzureSearch.md)
+### Continue to [1_AzureSearch](./1_AzureSearch.md), or return to the [Main](../../README.md) menu

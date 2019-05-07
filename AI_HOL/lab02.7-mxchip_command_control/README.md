@@ -150,3 +150,5 @@ case "ControlDevice":
 Run your Bot back through the emulator and test out the new commands.
 
 As an example, typing "stop the sensor" in your Bot will cause the blue LED on the MXChip to stop flashing, and all corresponding atmospheric data to cease transmission.
+
+### Congratulations! You have completed the AI section of the workshop. Return to the [Main](../../README.md) menu

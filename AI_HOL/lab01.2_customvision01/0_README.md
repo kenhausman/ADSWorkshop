@@ -47,4 +47,4 @@ An example could include looking for part defects in a manufacturing process. In
 
 For now, this lab **isn't** connected to the rest of the solution you are building in this training. But this may change in CY-2019.
 
-### Continue to [1_Classification_Lab](./1_Classification_Lab.md)
+### Continue to [1_Classification_Lab](./1_Classification_Lab.md), or return to the [Main](../../README.md) menu

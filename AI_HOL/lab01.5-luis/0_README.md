@@ -56,4 +56,4 @@ Over the course of the remainder of the workshop, we will collect various keys. 
 >- Bot App ID:
 >- Bot App Password:
 
-### Continue to [the lab](./1_LUIS.md)
+### Continue to [the lab](./1_LUIS.md), or return to the [Main](../../README.md) menu
