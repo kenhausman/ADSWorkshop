@@ -28,7 +28,7 @@ Take some time to review the links referenced to above.
 
 In the Portal, hit **Create a resource** and then enter **LUIS** in the search box and choose **Language Understanding**:
 
-This will lead you to fill out a few details for the API endpoint you'll be creating, choosing the API you're interested in and where you'd like your endpoint to reside, as well as what pricing plan you'd like. Put it in a location that is close to you and available. The free tier is sufficient for this lab.  
+This will lead you to fill out a few details for the API endpoint you'll be creating, choosing the API you're interested in and where you'd like your endpoint to reside, as well as what pricing plan you'd like. Put it the West US region, just like all other resources for this lab. The free tier is sufficient for this lab.  
 
 Once you have created your new API subscription, you can grab the key from the appropriate section of the blade and add it to your list of keys.
 
