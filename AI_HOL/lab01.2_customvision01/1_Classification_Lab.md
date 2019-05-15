@@ -43,6 +43,10 @@ automate all aspects of the Custom Vision Service. You can obtain a key by
 accessing <https://customvision.ai> and then clicking on the
 "setting" gear in the top right.
 
+*Be SURE that your API key for CustomVision API is created in the SouthCentral region only*
+Other issues encountered with this lab are generally found due to a key being created on another subscription or throttling due to a free tier. Choose a paid tier only.
+
+
 > Note: Internet Explorer is not supported. We recommend using Edge, Firefox, or Chrome.
 
 ## Step 1: Create a console application and prepare the training key and the images needed for the example

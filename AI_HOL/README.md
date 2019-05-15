@@ -44,7 +44,7 @@ Finally, before arriving at the workshop, we expect you to have completed [1_Set
 
 1. Training API Key: The training API key allows you to create, manage and train Custom Vision project programmatically
 
-1. You can obtain a key by creating a new project at <https://customvision.ai> and then clicking on the “setting” gear in the top right
+1. You can obtain a key by creating a new project at <https://customvision.ai> and then clicking on the “setting” gear in the top right. Be sure this key is created in the South Central region and that it is tied to the proper Azure subscription!
 
 ## Agenda
 

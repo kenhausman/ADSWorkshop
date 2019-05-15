@@ -192,3 +192,7 @@ The LearnAI team had intense participation in the creation of the following new 
 + [Azure Data Scientist](https://www.microsoft.com/en-us/learning/azure-data-scientist.aspx)
   + DP-100: Designing and Implementing a Data Science Solution on Azure​
 
+## Use of GitHub
+
+We will be using GitHub for all of our labs and corresponding documentation for this workshop. To learn more about GitHub, please visit this brief tutorial:
++ [GitHub Tutorial](https://lab.github.com/githubtraining/paths/first-day-on-github)
