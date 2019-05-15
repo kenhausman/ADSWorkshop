@@ -70,7 +70,7 @@ SELECT
 INTO
     CosmosDB
 FROM
-    IotHub
+    IoTHub
 GROUP BY deviceId, TumblingWindow(second,30)
 ```
 
