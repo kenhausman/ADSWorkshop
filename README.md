@@ -103,13 +103,13 @@ Labs using Azure Services to develop proficiency in Azure Cognitive Services inc
 
 [Object Detection with Custom Vision](AI_HOL/lab01.3_customvision02/0_README.md)
 
-### Module 1.4: Developing Intelligent Applications with LUIS
+### Module 1.5: Developing Intelligent Applications with LUIS
 
 **Duration**: 30 minutes
 
 [Language Understanding Intelligent Service](AI_HOL/lab01.5-luis/0_README.md)
 
-### Module 1.5: Business Case 1 - Cognitive Services
+### Module 1.6: Business Case 1 - Cognitive Services
 
 **Duration**: 60 minutes
 
