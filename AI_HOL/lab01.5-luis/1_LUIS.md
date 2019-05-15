@@ -26,7 +26,7 @@ Take some time to review the links referenced to above.
 
 > Note: Creating a LUIS service in the portal is optional, as LUIS provides you with a "starter key" that you can use for the labs. However, if you want to see how to create a free or paid service in the portal, you can follow the steps below.  
 
-In the Portal, hit **Create a resource** and then enter **LUIS** in the search box and choose **Language Understanding**:
+In the Portal, hit **Create a resource** and then enter **Language Understanding** in the search box and choose **Language Understanding**:
 
 This will lead you to fill out a few details for the API endpoint you'll be creating, choosing the API you're interested in and where you'd like your endpoint to reside, as well as what pricing plan you'd like. Put it the West US region, just like all other resources for this lab. The free tier is sufficient for this lab.  
 
