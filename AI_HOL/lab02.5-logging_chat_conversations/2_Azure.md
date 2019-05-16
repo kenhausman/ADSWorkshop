@@ -1,4 +1,4 @@
-### Module 2.5
+### Module 2.4
 
 ## 2_Azure:
 Estimated Time: 15-20 minutes

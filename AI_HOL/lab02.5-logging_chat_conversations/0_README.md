@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Module 2.5
+### Module 2.4
 
 # Logging with Microsoft Bot Framework 
 

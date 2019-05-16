@@ -1,4 +1,4 @@
-### Module 2.7
+### Module 2.6
 
 # Command and Control IoT Devices using Conversational AI
 

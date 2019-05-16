@@ -1,4 +1,4 @@
-### Module 2.6
+### Module 2.5
 
 # Testing Bots with Microsoft Bot Framework
 
