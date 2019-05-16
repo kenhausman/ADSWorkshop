@@ -152,15 +152,13 @@ Labs using Azure Services to develop proficiency in Azure Cognitive Services inc
 
 [Testing Bots](AI_HOL/lab02.6-testing_bots/0_README.md)
 
-#### Congratulations! You have completed the Azure IoT & AI Workshop.
-
 ### Module 2.6: Command and Control IoT Devices using Conversational AI
 
 **Duration**: 30 minutes
 
 [IoT Command and Control](AI_HOL/lab02.7-mxchip_command_control/README.md)
 
-Congratulations! You have completed the Azure IoT & AI Workshop.
+#### Congratulations! You have completed the Azure IoT & AI Workshop.
 
 # Supplementary Learning Materials
 
