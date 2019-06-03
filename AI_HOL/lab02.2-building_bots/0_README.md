@@ -2,7 +2,7 @@
 
 # Building Intelligent Bots with Microsoft's Bot Framework (.NET)
 
-This hands-on lab guides you through creating an intelligent bot from end-to-end using the Microsoft Bot Framework, Azure Search, and Microsoft's Language Understanding Intelligent Service (LUIS).
+This hands-on lab guides you through creating an intelligent bot from end-to-end using the Microsoft Bot Framework, Azure Search, and Microsoft's Language Understanding Intelligent Service (LUIS). To stay current with announcements, please visit: [This page](https://github.com/Microsoft/botframework/blob/master/whats-new.md#readme).
 
 > **[09/29/2018] Important Note!**  
 > The v4 SDK for the bot framework recently went [GA](https://github.com/Microsoft/botbuilder-dotnet). If you would like to complete lab02.2-building_bots with the v3 SDK (instead of the v4 SDK), refer [here](./resources/SDK_V3_Labs), but note that we will not be maintaining the V3 labs going forward.
