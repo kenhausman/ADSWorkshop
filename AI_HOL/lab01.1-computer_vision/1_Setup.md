@@ -20,7 +20,7 @@ After creating an Azure account, you may access the [Azure portal](https://porta
 
 >Note: You can do all of the remaining instructions from your VM, once you are logged in. However, be sure to do all work using Chrome or Chromium browsers. Do NOT use IE. 
 
->Note: Use ".\\<username>" to log in to the machine, otherwise, the login defaults to your azure credentials. 
+>Note: Use ".\\<<username>>" to log in to the machine, otherwise, the login defaults to your azure credentials. 
 
 1. In the Cortana search bar, type "git bash" and select "Git Bash Desktop App", or type "cmd" and select "Command Prompt". Next, type `cd c://` then enter, and `git clone https://github.com/Azure/LearnAI-Bootcamp.git` then enter. This copies down all of the files from the GitHub site to **C:\LearnAI-Bootcamp**.  
 *Validation step*: Go to **C:\LearnAI-Bootcamp** and confirm it exists.
