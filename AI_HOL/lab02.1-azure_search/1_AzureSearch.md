@@ -59,7 +59,9 @@ Update the Index name to: **images**
 
 Update the Key to: **id** (which uniquely identifies each document)  
 
-Create a [**Suggester**](https://docs.microsoft.com/en-us/rest/api/searchservice/suggesters) to set the fields that will be used for type ahead, allowing the user to type parts of a word where Azure Search will look for best matches in these fields. To learn more about suggestors and how to extend your searches to support fuzzy matching, which allows you to get results based on close matches even if the user misspells a word, check out [this example](https://docs.microsoft.com/en-us/azure/search/search-query-lucene-examples#fuzzy-search-example). Enter a Suggester Name **sg** and choose the only one option in the Search mode. Set **Tags** to be the fields to look for term suggestions
+Create a [**Suggester**](https://docs.microsoft.com/en-us/rest/api/searchservice/suggesters) to set the fields that will be used for type ahead, allowing the user to type parts of a word where Azure Search will look for best matches in these fields. To learn more about suggestors and how to extend your searches to support fuzzy matching, which allows you to get results based on close matches even if the user misspells a word, check out [this example](https://docs.microsoft.com/en-us/azure/search/search-query-lucene-examples#fuzzy-search-example). Enter a Suggester Name **sg** and choose the only one option in the Search mode. 
+
+Set **Tags** to be the fields to look for term suggestions - check the box for "Suggester"
 
 Set all fields to be **Retrievable** (to allow the client to retrieve these fields when searched)  
 
